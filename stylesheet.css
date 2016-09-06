@@ -1,5 +1,5 @@
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 800px) {
 	body{
 		margin: 0;
 		padding: 0;
@@ -343,8 +343,6 @@
 		margin-right: 1.5%;
 	}
 	.motto{
-		margin-left: 5%; 
-		margin-right: 5%; 
 		font-size: 1.2em;
 		display: none;
 	}
