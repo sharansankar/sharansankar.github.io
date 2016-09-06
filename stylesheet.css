@@ -1,0 +1,569 @@
+
+@media screen and (max-width: 550px) {
+	body{
+		margin: 0;
+		padding: 0;
+		font-family: "Avenir";
+	}
+	ul{
+		list-style-type: none;
+	    margin: 0;
+	    
+	    background-color: white;
+	    position: fixed;
+	    top: 0;
+	    width: 100%;
+	    height: 6%;
+
+
+	}
+	li{
+		display: inline-block;
+		padding-top: 2%;
+		padding-left: 1%; 
+		padding-right: 1%;
+		text-align: center;
+		font-size: 0.9em;
+	}
+	a{
+		text-decoration: none;
+		color: #585858; 
+	}
+	.SharanPage{
+		
+		text-align: center;
+		vertical-align: middle;
+		width: 100%; 
+		height: 100%; 
+		margin-bottom: 25%; 
+	}
+
+	#sharan-sankar{
+		
+		margin-top: 20%;
+		text-align: center;
+		font-size: 3em; 
+		color: #FF8000; 
+		margin-bottom: 0%; 
+
+		
+
+	}
+	.MottoSection{
+		display: inline-block;
+		width: 10%; 
+		margin-top: 0%; 
+		margin-left: 5%; 
+		margin-right: 5%;
+	}
+	.motto{
+		padding-left: 1%; 
+		font-size: 0.9em;
+		display: none;
+		margin-left: 5%; 
+	}
+	.hidden{
+
+	}
+	.Story{
+
+		height: 100%;
+		
+	}
+	#story{
+
+		padding-top: 15%;
+		padding-bottom: 10%;
+	}
+
+	.Skills{
+		height: 100%; 
+	}
+	#skills{
+		padding-top: 15%;
+	}
+
+	.Experience{
+
+		height: 100%; 
+	}
+	#experience{
+
+		padding-top: 15%;
+	}
+
+	.Projects{
+		height: 100%; 
+	}
+	#projects{
+		padding-top: 15%;
+	}
+	span{
+		
+		padding: 1%;
+		width: 100%;
+		border-style: solid;
+		border-width: 1px; 
+		border-color: #FF8000;
+		text-align: center;
+		font-size: 2.25em;
+		color:  #FF8000;
+		margin-left: 33%;
+	}
+	#image{
+		display: block;
+		width: 100%;
+		text-align: center;
+	}
+	#photo{
+		margin-top: 5%;
+		margin-left: 10%;
+		height: 45%;
+		width:38%;
+		
+	}
+	#description{
+		margin-top: 3%;  
+		width: 100%; 
+		margin-left: 2%;
+		width: 100%;
+		text-align: left;
+		font-size: 1.25em; 
+		display: block;
+
+	}
+	#finalparagraph{
+
+		margin-bottom: 11%;
+	}
+
+	.hover{
+
+		color: #FF8000;
+	}
+
+	.SkillVal{
+		height: 3%; 
+		width: 3%;
+		display: inline-block;
+		font-size: 1.5em;
+		padding-left: 1%;
+	}
+
+	.SkillContent{
+		
+		display: inline-block;
+		width: 100%; 
+		text-align: center;
+	}
+	#topSkill{
+		padding-top: 2%; 
+		margin-right: 35%;
+		margin-bottom: 0%; 
+	}
+	#skillName{
+		margin-right: 35%;
+		margin-bottom: 0%;
+	}
+	.Subsection{
+		width: 100%; 
+		text-align: center;
+		color: #FF8000;
+		font-size: 2em;
+		margin-bottom: 0%; 
+		margin-top: 5%;
+	}
+	#lastSkill{
+
+		margin-right: 35%;
+		margin-bottom: 5%;
+	}
+
+	#companyphoto{
+		margin-top: 5%;
+		margin-left: 10%;
+		height: 25%;
+		width:18%;
+		float: left;
+	}
+	#experience_description{
+		margin-top: 3%; 
+		margin-right: 10%; 
+		width: 55%; 
+		float: right;
+		text-align: left;
+		font-size: 1.25em; 
+
+	}
+	.JobTitle{
+		font-size: 1.75em; 
+		color: #FF8000;
+		margin-bottom: 0%; 
+		margin-top: 1%; 
+	}
+	.CompanyTitle{
+		font-size: 1.25em; 
+		color: #848484;
+		margin-bottom: 0%; 
+		margin-top: 1%; 
+	}
+	.EmploymentPeriod{
+		font-size: 1em; 
+		color: #848484;
+		margin-bottom: 0%; 
+		margin-top: 1%;
+		font-weight: bold; 
+	}
+	.JobSkills{
+		width: 100%; 
+	}
+	.JobSkillListed{
+		border-radius: 20px;
+		border-style: solid;
+		border-width: 1px; 
+		border-color: #848484;
+		display: inline-block;
+		padding: 1%;
+		background-color: #848484;
+		color: white;
+		margin-bottom: 0%; 
+		font-size: 0.75em;
+		font-weight: bold;
+	}
+	.JobSection{
+		width: 100%; 
+		margin-bottom: 0%;
+		display: inline-block;
+	}
+	#lastsection{
+		margin-bottom: 5%; 
+	}
+	.ProjectSection{
+		width: 100%; 
+		float: left;
+		margin-top: 5%; 
+		display: inline-block;
+	}
+	.ProjectPhoto{ 
+		width: 96%; 
+		height: auto;
+		margin: 2%; 
+
+
+	}
+	.ProjectHeader{
+		width: 100%; 
+		text-align: center;
+
+
+	}
+	.ProjectTitle{
+		font-size: 1.75em; 
+		color: #FF8000;
+		margin-bottom: 0%; 
+		margin-top: 1%; 
+	}
+	.ProjectTitle{
+		font-size: 3em; 
+		color: #FF8000;
+		margin-bottom: 0%; 
+		margin-top: 1%; 
+	}
+	.EventTitle{
+		font-size: 2em; 
+		color: #848484;
+		margin-bottom: 0%; 
+		margin-top: 1%; 
+	}
+	.ProjectDescription{
+		margin: 2%;
+		font-size: 1.2em;
+	}
+	#indented{
+		padding-left: 3%; 
+
+	}
+
+}
+@media screen and (min-width: 551px) {
+	body{
+	margin: 0;
+	padding: 0;
+	font-family: "Avenir";
+	}
+	ul{
+		list-style-type: none;
+	    margin: 0;
+	    padding: 0;
+	    overflow: hidden;
+	    background-color: white;
+	    position: fixed;
+	    top: 0;
+	    width: 100%;
+	    height: 7%;
+
+
+	}
+	li{
+		display: inline-block;
+		vertical-align: middle;
+		padding-top: 2%;
+		padding-left: 11.5%;
+		text-align: center;
+		font-size: 1em;
+	}
+	a{
+		text-decoration: none;
+		color: #585858; 
+	}
+	.SharanPage{
+		
+		text-align: center;
+		vertical-align: middle;
+		width: 100%; 
+		height: 100%; 
+		margin-bottom: 25%; 
+	}
+
+	#sharan-sankar{
+		
+		margin-top: 20%;
+		text-align: center;
+		font-size: 4em; 
+		color: #FF8000; 
+		margin-bottom: 0%; 
+		
+
+	}
+	.MottoSection{
+		display: inline-block;
+		width: 10%; 
+		margin-top: 0%; 
+	}
+	.motto{
+		padding-left: 1%; 
+		font-size: 1.2em;
+		display: none;
+	}
+	.hidden{
+
+	}
+	.Story{
+
+		height: 100%;
+		
+	}
+	#story{
+
+		padding-top: 10%;
+		padding-bottom: 10%;
+	}
+
+	.Skills{
+		height: 100%; 
+	}
+	#skills{
+		padding-top: 10%;
+	}
+
+	.Experience{
+
+		height: 100%; 
+	}
+	#experience{
+
+		padding-top: 10%;
+	}
+
+	.Projects{
+		height: 100%; 
+	}
+	#projects{
+		padding-top: 10%;
+	}
+	span{
+		
+		padding: 1%;
+		width: 100%;
+		border-style: solid;
+		border-width: 1px; 
+		border-color: #FF8000;
+		text-align: center;
+		font-size: 2.25em;
+		color:  #FF8000;
+		margin-left: 43%;
+	}
+	#image{
+		display: block;
+
+	}
+	#photo{
+		margin-top: 5%;
+		margin-left: 10%;
+		height: 35%;
+		width:28%;
+		float: left;
+	}
+	#description{
+		margin-top: 3%; 
+		margin-right: 10%; 
+		width: 40%; 
+		float: right;
+		text-align: left;
+		font-size: 1.25em; 
+
+	}
+	#finalparagraph{
+
+		margin-bottom: 11%;
+	}
+
+	.hover{
+
+		color: #FF8000;
+	}
+
+	.SkillVal{
+		height: 1.5%; 
+		width: 1.5%;
+		display: inline-block;
+		font-size: 1.5em;
+		padding-left: 1%;
+	}
+
+	.SkillContent{
+		
+		display: inline-block;
+		width: 100%; 
+		text-align: center;
+	}
+	#topSkill{
+		padding-top: 2%; 
+		margin-right: 35%;
+		margin-bottom: 0%; 
+	}
+	#skillName{
+		margin-right: 35%;
+		margin-bottom: 0%;
+	}
+	.Subsection{
+		width: 100%; 
+		text-align: center;
+		color: #FF8000;
+		font-size: 2em;
+		margin-bottom: 0%; 
+		margin-top: 5%;
+	}
+	#lastSkill{
+
+		margin-right: 35%;
+		margin-bottom: 5%;
+	}
+
+	#companyphoto{
+		margin-top: 5%;
+		margin-left: 10%;
+		height: 25%;
+		width:18%;
+		float: left;
+	}
+	#experience_description{
+		margin-top: 3%; 
+		margin-right: 10%; 
+		width: 55%; 
+		float: right;
+		text-align: left;
+		font-size: 1.25em; 
+
+	}
+	.JobTitle{
+		font-size: 1.75em; 
+		color: #FF8000;
+		margin-bottom: 0%; 
+		margin-top: 1%; 
+	}
+	.CompanyTitle{
+		font-size: 1.25em; 
+		color: #848484;
+		margin-bottom: 0%; 
+		margin-top: 1%; 
+	}
+	.EmploymentPeriod{
+		font-size: 1em; 
+		color: #848484;
+		margin-bottom: 0%; 
+		margin-top: 1%;
+		font-weight: bold; 
+	}
+	.JobSkills{
+		width: 100%; 
+	}
+	.JobSkillListed{
+		border-radius: 20px;
+		border-style: solid;
+		border-width: 1px; 
+		border-color: #848484;
+		display: inline-block;
+		padding: 1%;
+		background-color: #848484;
+		color: white;
+		margin-bottom: 0%; 
+		font-size: 0.75em;
+		font-weight: bold;
+	}
+	.JobSection{
+		width: 100%; 
+		margin-bottom: 0%;
+		display: inline-block;
+	}
+	#lastsection{
+		margin-bottom: 5%; 
+	}
+	.ProjectSection{
+		width: 100%; 
+		float: left;
+		margin-top: 5%; 
+		display: inline-block;
+	}
+	.ProjectPhoto{ 
+		width: 96%; 
+		height: auto;
+		margin: 2%; 
+
+
+	}
+	.ProjectHeader{
+		width: 100%; 
+		text-align: center;
+
+
+	}
+	.ProjectTitle{
+		font-size: 1.75em; 
+		color: #FF8000;
+		margin-bottom: 0%; 
+		margin-top: 1%; 
+	}
+	.ProjectTitle{
+		font-size: 3em; 
+		color: #FF8000;
+		margin-bottom: 0%; 
+		margin-top: 1%; 
+	}
+	.EventTitle{
+		font-size: 2em; 
+		color: #848484;
+		margin-bottom: 0%; 
+		margin-top: 1%; 
+	}
+	.ProjectDescription{
+		margin: 2%;
+		font-size: 1.2em;
+	}
+	#indented{
+		padding-left: 3%; 
+
+	}
+
+}
+
